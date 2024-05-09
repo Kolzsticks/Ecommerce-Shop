@@ -19,7 +19,7 @@ A responsive, dark-mode-enabled e-commerce front-end built with Tailwind CSS and
 - **Font Awesome**: For rich iconography.
 
 #### 🚀 Getting Started
-1. **Clone the Repository**: `git clone <repository_url>`
+1. **Clone the Repository**: `git clone https://github.com/Kolzsticks/Ecommerce-Shop.git`
 2. **Open with a Local Server**: Use a tool like Live Server to view and test.
 3. **Customize**: Modify the products, navbar, or styling to your needs.
 
